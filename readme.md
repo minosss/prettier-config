@@ -1,4 +1,4 @@
-`# prettier-config
+# prettier-config
 
 > my shared prettier config
 
