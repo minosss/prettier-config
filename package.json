@@ -1,11 +1,14 @@
 {
 	"name": "@yme/prettier-config",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "shared prettier config",
 	"main": "index.json",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/minosss/prettier-config.git"
+	},
+	"peerDependencies": {
+		"prettier": "*"
 	},
 	"author": "mino",
 	"license": "MIT"
