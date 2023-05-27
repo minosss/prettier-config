@@ -1,18 +1,18 @@
 {
-	"name": "@yme/prettier-config",
-	"description": "shared prettier config",
-	"version": "1.0.2",
-	"author": "mino",
-	"repository": {
-	  "type": "git",
-		"url": "git+https://github.com/minosss/prettier-config.git"
-	},
-	"license": "MIT",
-	"main": "index.json",
-	"files": [
-	  "index.json"
-	],
-	"peerDependencies": {
-	  "prettier": "*"
-	}
+  "name": "@yme/prettier-config",
+  "description": "shared prettier config",
+  "version": "1.0.3",
+  "author": "mino",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minosss/prettier-config.git"
+  },
+  "license": "MIT",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "prettier": "*"
+  }
 }
